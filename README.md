@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning web development full stack at O'Clock school.
 
-💞️ I’m looking to collaborate on video games projects or web development
+💞️ I’m looking to collaborate on web development. I'm also looking for video games projects!
 
 📫 Reach me through my email : ericbarzman@gmail.com
 

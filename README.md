@@ -1,6 +1,6 @@
 My name is Eric Barzman. After several years studying filmmaking a making movies, I've decided to return to the world of coding.
 
-I just love esthetic, communication, colours, interfaces, and anything creative.
+I love esthetic as well as logic and architecture.
 
 📫 Reach me through my email : ericbarzman@gmail.com
 
